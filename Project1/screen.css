@@ -253,13 +253,13 @@ form {
   overflow: auto;
   position: fixed;
 }
-h2{ 
+h2{  /* set the color and where text is on the page*/
 	font-size: 150%;
 	text-align:left;
 	font-family: 'Alex Brush';
 	color: white;
 }
-h1
+h1   /* set the color and where text is on the page*/
 {
 	
 	font-family: "Times New Roman", Times, serif;
@@ -290,16 +290,16 @@ body
     position: absolute;
     top: 50%;
 }
- h2{
+ h2{ /* set the color and where text is on the page*/
 	text-align:center;
 	font-size: 250%;
 	color: black;
 }
- body
+ body/* sets color for the background*/
 {
 	background-color: lightblue;
 }
-h1
+h1 /* set the color and where text is on the page*/
 {
 	text-align:center;
 	font-family: 'Barrio';
